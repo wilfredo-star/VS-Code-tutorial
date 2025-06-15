@@ -1,0 +1,4 @@
+Las Normas Internacionales de Informacion Financiera (NIIF) son un conjunto de principios y lineamientos contables que tienen como objetivo estandarizar la presentacion de los estados financieros a nivel global.
+Estas normas son emitidas por el International Accounting Standards Board (IASB), una organizacion independiente con sede en Londres. Su finalidad principal es garantizar que la informacion financiera de las
+empresas sea comprensible, relevante, confiable y comparable entre diferentes paises y sectores economicos.
+UTF-8 (Unicode Transformation Format - 8-bit) es un formato de codificacion de caracteres. Se utiliza para representar texto en computadoras y en la web. Es la codificacion mas comun y ampliamente utilizada en la actualidad.
